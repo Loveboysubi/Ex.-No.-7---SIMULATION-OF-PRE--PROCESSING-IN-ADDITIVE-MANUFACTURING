@@ -48,9 +48,9 @@
 
 
 
-### Name: kabilan T
+### Name: Subishesh P
 
-### Register Number: 212222230059
+### Register Number: 23003621
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
